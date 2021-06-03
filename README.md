@@ -1,6 +1,7 @@
 # [Ambassador Labs summer-of-k8s](https://www.getambassador.io/summer-of-k8s/)
 
-# [Week-1](https://www.getambassador.io/summer-of-k8s/code/week1/)
+# [Week-1](https://www.getambassador.io/summer-of-k8s/code/week1/) 
+# Setting up your local development environment for Kubernetes
 
 | Resource    | Link      |
 | ------------- | ------------- |
@@ -12,7 +13,7 @@
 |Sample Voting App in GO  | https://github.com/BuoyantIO/emojivoto |
 
 # [Week-2](https://www.getambassador.io/summer-of-k8s/code/week2/)
-
+# Learn how to package your code into containers
 | Resource    | Link      |
 | ------------- | ------------- |
 |Use multi-stage builds  | https://docs.docker.com/develop/develop-images/multistage-build/ |
