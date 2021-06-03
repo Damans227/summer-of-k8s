@@ -11,7 +11,7 @@
 |kubie  | https://github.com/sbstp/kubie |
 |Sample Voting App in GO  | https://github.com/BuoyantIO/emojivoto |
 
-# [Week-2](https://www.getambassador.io/summer-of-k8s/code/week1/)
+# [Week-2](https://www.getambassador.io/summer-of-k8s/code/week2/)
 
 | Resource    | Link      |
 | ------------- | ------------- |
