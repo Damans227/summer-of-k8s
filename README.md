@@ -32,9 +32,9 @@
 # [Week-3](https://www.getambassador.io/summer-of-k8s/code/week3/)
 ## Making code changes quickly with cloud native apps
 
-**Video Tutorial:** https://www.youtube.com/watch?v=hvVThTi-o1E
+**Video Tutorial:** 
 
 | Resource    | Link      |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Hands-on Introduction to Telepresence - Rawkode Live  | https://www.youtube.com/watch?v=hvVThTi-o1E |
 | Content Cell  | Content Cell  |
