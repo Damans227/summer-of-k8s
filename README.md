@@ -27,3 +27,14 @@
 |  Dive | https://github.com/wagoodman/dive |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+# [Week-3](https://www.getambassador.io/summer-of-k8s/code/week3/)
+## Making code changes quickly with cloud native apps
+
+**Video Tutorial:** 
+
+| Resource    | Link      |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
