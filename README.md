@@ -43,4 +43,5 @@
 |Intro to Skaffold for easy Kubernetes development|https://medium.com/flant-com/skaffold-kubernetes-development-tool-2897d6903e02|
 |Learn about and install Telepresence|https://codefresh.io/kubernetes-tutorial/telepresence-2-local-development/|
 |Using Telepresence 2 for Kubernetes debugging and local development|https://blog.getambassador.io/super-fast-inner-development-loops-for-kubernetes-with-skaffold-and-telepresence-1cd3e42ba665|
+|Cloud Development Environments: Using Skaffold and Telepresence on Kubernetes for fast dev loops|https://blog.getambassador.io/super-fast-inner-development-loops-for-kubernetes-with-skaffold-and-telepresence-1cd3e42ba665|
 | Content Cell  | Content Cell  |
