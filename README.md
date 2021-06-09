@@ -37,4 +37,10 @@
 | Resource    | Link      |
 | ------------- | ------------- |
 | Hands-on Introduction to Telepresence - Rawkode Live  | https://www.youtube.com/watch?v=hvVThTi-o1E |
+|Kubernetes Infrastructure: Know the Inner Dev Loop|https://thenewstack.io/kubernetes-infrastructure-know-the-inner-dev-loop/|
+|Efficient Inner Development Loops for Cloud Native Applications|https://www.getambassador.io/resources/inner-dev-loop/|
+|Skaffold Architecture and Design|https://medium.com/flant-com/skaffold-kubernetes-development-tool-2897d6903e02|
+|Intro to Skaffold for easy Kubernetes development|https://medium.com/flant-com/skaffold-kubernetes-development-tool-2897d6903e02|
+|Learn about and install Telepresence|https://codefresh.io/kubernetes-tutorial/telepresence-2-local-development/|
+|Using Telepresence 2 for Kubernetes debugging and local development|https://blog.getambassador.io/super-fast-inner-development-loops-for-kubernetes-with-skaffold-and-telepresence-1cd3e42ba665|
 | Content Cell  | Content Cell  |
