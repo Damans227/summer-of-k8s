@@ -32,7 +32,7 @@
 # [Week-3](https://www.getambassador.io/summer-of-k8s/code/week3/)
 ## Making code changes quickly with cloud native apps
 
-**Video Tutorial:** 
+**Video Tutorial:** https://www.youtube.com/watch?v=Vk8f17NAo9U
 
 | Resource    | Link      |
 | ------------- | ------------- |
