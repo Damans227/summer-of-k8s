@@ -45,3 +45,15 @@
 |Using Telepresence 2 for Kubernetes debugging and local development|https://blog.getambassador.io/super-fast-inner-development-loops-for-kubernetes-with-skaffold-and-telepresence-1cd3e42ba665|
 |Cloud Development Environments: Using Skaffold and Telepresence on Kubernetes for fast dev loops|https://blog.getambassador.io/super-fast-inner-development-loops-for-kubernetes-with-skaffold-and-telepresence-1cd3e42ba665|
 | Content Cell  | Content Cell  |
+
+# [Week-4](https://www.getambassador.io/summer-of-k8s/code/week4/)
+## Continuous Integration
+
+**Video Tutorial:** 
+
+| Resource    | Link      |
+| ------------- | ------------- |
+|What is Continuous Integration ?|https://www.youtube.com/watch?v=1er2cjUq1UI|
+|Jenkins vs JenkinsX|https://laptrinhx.com/jenkins-vs-jenkins-x-know-how-jenkins-x-differs-from-jenkins-1181400777/|
+|Github Actions Quick Start|https://docs.github.com/en/actions/quickstart|
+
