@@ -49,7 +49,7 @@
 # [Week-4](https://www.getambassador.io/summer-of-k8s/code/week4/)
 ## Continuous Integration
 
-**Video Tutorial:** 
+**Video Tutorial:** https://www.youtube.com/watch?v=fo3dAJeGS18
 
 | Resource    | Link      |
 | ------------- | ------------- |
