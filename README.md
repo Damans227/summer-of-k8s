@@ -55,5 +55,5 @@
 | ------------- | ------------- |
 |What is Continuous Integration ?|https://www.youtube.com/watch?v=1er2cjUq1UI|
 |Jenkins vs JenkinsX|https://laptrinhx.com/jenkins-vs-jenkins-x-know-how-jenkins-x-differs-from-jenkins-1181400777/|
-|Github Actions Quick Start|https://docs.github.com/en/actions/quickstart|
+| Github Actions Quick Start|https://docs.github.com/en/actions/quickstart|
 
